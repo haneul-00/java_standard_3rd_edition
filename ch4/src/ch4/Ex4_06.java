@@ -1,7 +1,7 @@
 package ch4;
 
 import java.util.*;
-public class Ex4_6 {
+public class Ex4_06 {
 
 	public static void main(String[] args) {
 		System.out.print("현재 월을 입력하세요.>");

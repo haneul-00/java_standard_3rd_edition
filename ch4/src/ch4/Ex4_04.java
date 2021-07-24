@@ -1,7 +1,7 @@
 package ch4;
 
 import java.util.*;
-public class Ex4_4 {
+public class Ex4_04 {
 
 	public static void main(String[] args) {
 		int score =0;

@@ -1,7 +1,7 @@
 package ch4;
 
 import java.util.*;
-public class Ex4_3 {
+public class Ex4_03 {
 
 	public static void main(String[] args) {
 		System.out.print("숫자를 하나 입력하세요.>");
