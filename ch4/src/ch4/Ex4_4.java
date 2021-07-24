@@ -25,4 +25,4 @@ public class Ex4_4 {
 		System.out.println("당신의 학점은 "+ grade + "입니다.");
 	}
 }
-// p142 if-else-if 문 연습
+// p142 학점 계산 if-else -if 문 사용
