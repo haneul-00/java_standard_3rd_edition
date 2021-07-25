@@ -21,3 +21,4 @@ public class Ex5_04 {
 	}
 
 }
+// p195 char 배열 , arraycopy 사용
